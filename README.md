@@ -8,6 +8,11 @@
   <a href="https://wa.me/+918668389553"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajpatil05&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+
 # 👋 Hey there, I'm Suraj Patil! 
 
 ## Flutter Developer | Crafting Engaging Mobile Experiences
