@@ -27,7 +27,9 @@
   My focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
 </p>
 
-<div align="center">## 🔧 Tech Stack & Skills<div>
+<div align="center"> 
+## 🔧 Tech Stack & Skills
+<div>
 
 <div align="center">
 
