@@ -76,7 +76,7 @@ A **focus-boosting Pomodoro timer** that helps users manage work sessions effect
 🔗 **GitHub Repo:** [PomodoroStreak](https://github.com/surajpatil05/pomodoro-streak)  
 
 💡 **Mini Projects:**  
-✔️ **Weather App** 🌤️ | ✔️ **Todo App** 📋 | ✔️ **Dark Mode Switch** 🌙☀️ (Using BLoC & AnimatedSwitcher)  
+✔️ **Weather App** 🌤️ | ✔️ **Todo App** 📋 | ✔️ **Dark Mode Switch** 🌙☀️ 
 
 
 ## 📊 GitHub Stats
