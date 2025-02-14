@@ -63,16 +63,21 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 
-### 🚀 Projects
-### 🔹 Login Screen UI  
-A beautifully designed login UI built with Flutter and deployed on Vercel.  
-🔗 **Live Demo:** [Login Screen UI](https://login-screen-ui.vercel.app/)  
-🔗 **GitHub Repo:** [GitHub - Login Screen UI](https://github.com/surajpatil05/login-screen-ui)  
+## 🚀 Projects That Speak for Themselves  
 
-### 🔹 PomodoroStreak  
-A productivity-focused Pomodoro timer app to help users stay focused and manage time effectively.  
-📲 **Download on Google Play Store:** [PomodoroStreak - Play Store](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)  
-🔗 **GitHub Repo:** [GitHub - PomodoroStreak](https://github.com/surajpatil05/PomodoroStreak)  
+📱 **Login Screen UI** (Flutter Web App)  
+A beautifully designed **Flutter login UI**, deployed on **Vercel**, featuring responsive design, authentication flow, and state management.  
+🔗 **Live Demo:** [Login Screen UI](https://login-screen-ui.vercel.app/)  
+🔗 **GitHub Repo:** [Login Screen UI](https://github.com/surajpatil05/login-screen-ui)  
+
+🕒 **PomodoroStreak** (Productivity App)  
+A **focus-boosting Pomodoro timer** that helps users manage work sessions effectively with streak tracking and custom notifications.  
+📲 **Download on Play Store:** [PomodoroStreak](https://play.google.com/store/apps/details?id=com.skyverse.pomodoro_streak)  
+🔗 **GitHub Repo:** [PomodoroStreak](https://github.com/surajpatil05/pomodoro-streak)  
+
+💡 **Mini Projects:**  
+✔️ **Weather App** 🌤️ | ✔️ **Todo App** 📋 | ✔️ **Dark Mode Switch** 🌙☀️ (Using BLoC & AnimatedSwitcher)  
+
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=surajpatil05&show_icons=true&theme=radical"/>
