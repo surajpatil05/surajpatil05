@@ -63,16 +63,18 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 
-## 🚀 Projects:
-🔹 Login Screen UI
-A beautifully designed login UI built with Flutter and deployed on Vercel.
-🔗 Live Demo: https://login-screen-ui.vercel.app/
-🔗 GitHub Repo: GitHub - https://github.com/login-screen-ui
+### 🚀 Projects
+### 🔹 Login Screen UI  
+A beautifully designed login UI built with Flutter and deployed on Vercel.  
+🔗 **Live Demo:** [Login Screen UI](https://login-screen-ui.vercel.app/)  
+🔗 **GitHub Repo:** [GitHub - Login Screen UI](https://github.com/surajpatil05/login-screen-ui)  
 
-🔹 PomodoroStreak
-A productivity-focused Pomodoro timer app to help users stay focused and manage time effectively.
-📲 Download on Google Play Store: PomodoroStreak - Play Store
-🔗 GitHub Repo: GitHub - PomodoroStreak
+---
+
+### 🔹 PomodoroStreak  
+A productivity-focused Pomodoro timer app to help users stay focused and manage time effectively.  
+📲 **Download on Google Play Store:** [PomodoroStreak - Play Store](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)  
+🔗 **GitHub Repo:** [GitHub - PomodoroStreak](https://github.com/surajpatil05/PomodoroStreak)  
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=surajpatil05&show_icons=true&theme=radical"/>
