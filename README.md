@@ -27,11 +27,11 @@
   My focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
 </p>
 
-<div align="center"> 
-## 🔧 Tech Stack & Skills
-<div>
+
 
 <div align="center">
+
+## 🔧 Tech Stack & Skills
 
 ### 🚀 Programming Languages:
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
