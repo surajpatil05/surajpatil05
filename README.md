@@ -27,8 +27,6 @@
   My focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
 </p>
 
-
-
 <div align="center">
 
 ## 🔧 Tech Stack & Skills
@@ -64,6 +62,17 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+🚀 Projects
+🔹 Login Screen UI
+A beautifully designed login UI built with Flutter and deployed on Vercel.
+🔗 Live Demo: https://login-screen-ui.vercel.app/
+🔗 GitHub Repo: GitHub - https://github.com/login-screen-ui
+
+🔹 PomodoroStreak
+A productivity-focused Pomodoro timer app to help users stay focused and manage time effectively.
+📲 Download on Google Play Store: PomodoroStreak - Play Store
+🔗 GitHub Repo: GitHub - PomodoroStreak
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=surajpatil05&show_icons=true&theme=radical"/>
