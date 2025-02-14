@@ -18,7 +18,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="30px"/>
   Flutter Developer | Crafting Engaging Mobile Experiences
 </h3>
 
