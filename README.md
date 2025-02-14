@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey there, I'm Suraj Patil! 
 
-<!--
-**surajpatil05/surajpatil05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flutter Developer | Crafting Engaging Mobile Experiences
+Welcome to my GitHub! I'm a Flutter Developer passionate about building visually stunning, intuitive, and efficient mobile applications. With a strong foundation in Object-Oriented Programming (OOP) and a problem-solving mindset, I specialize in creating scalable, robust solutions that elevate user experiences. my focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Programming Languages:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 📱 Frameworks:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 🛠️ State Management:
+![BLoC](https://img.shields.io/badge/BLoC-3986F7?style=for-the-badge&logo=bloc&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-DC382D?style=for-the-badge&logo=getx&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0288D1?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-5B5FC7?style=for-the-badge&logo=riverpod&logoColor=white)
+
+### 🗄️ Databases & Cloud Services:
+![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge&logo=hive&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠 Dev Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🎯 Reach Me At
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+
