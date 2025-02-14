@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 
-🚀 Projects
+## 🚀 Projects:
 🔹 Login Screen UI
 A beautifully designed login UI built with Flutter and deployed on Vercel.
 🔗 Live Demo: https://login-screen-ui.vercel.app/
