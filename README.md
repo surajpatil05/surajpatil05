@@ -14,7 +14,7 @@
 
 <h1 align="center">
   Hey there, I'm Suraj Patil!  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flutter-logo.svg" width="30px"/>
 </h1>
 
 <h3 align="center">
