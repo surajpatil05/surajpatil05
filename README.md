@@ -20,9 +20,11 @@
   Flutter Developer | Crafting Engaging Mobile Experiences
 </h3>
 
-
-## Flutter Developer | Crafting Engaging Mobile Experiences
-Welcome to my GitHub! I'm a Flutter Developer passionate about building visually stunning, intuitive, and efficient mobile applications. With a strong foundation in Object-Oriented Programming (OOP) and a problem-solving mindset, I specialize in creating scalable, robust solutions that elevate user experiences. my focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
+<p align="center">
+  Welcome to my GitHub! I'm a Flutter Developer passionate about building visually stunning, intuitive, and efficient mobile applications. 
+  With a strong foundation in Object-Oriented Programming (OOP) and a problem-solving mindset, I specialize in creating scalable, robust solutions that elevate user experiences. 
+  My focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
+</p>
 
 ## 🔧 Tech Stack & Skills
 
