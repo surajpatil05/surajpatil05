@@ -17,9 +17,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">
+<h4 align="center">
   Flutter Developer | Crafting Engaging Mobile Experiences
-</h3>
+</h4>
 
 <p align="center">
   Welcome to my GitHub! I'm a Flutter Developer passionate about building visually stunning, intuitive, and efficient mobile applications. 
@@ -65,13 +65,13 @@
 
 ## 🚀 Projects That Speak for Themselves  
 
-📱 **Login Screen UI** (Flutter Web App)  
-A beautifully designed **Flutter login UI**, deployed on **Vercel**, featuring responsive design, authentication flow, and state management.  
+### 📱 **Login Screen UI** (Flutter Web App)  
+> A beautifully designed **Flutter login UI**, deployed on **Vercel**, featuring responsive design, authentication flow, and state management.  
 🔗 **Live Demo:** [Login Screen UI](https://login-screen-ui.vercel.app/)  
 🔗 **GitHub Repo:** [Login Screen UI](https://github.com/surajpatil05/login-screen-ui)  
 
-🕒 **PomodoroStreak** (Productivity App)  
-A **focus-boosting Pomodoro timer** that helps users manage work sessions effectively with streak tracking and custom notifications.  
+### 🕒 **PomodoroStreak** (Productivity App)  
+> A **focus-boosting Pomodoro timer** that helps users manage work sessions effectively with streak tracking and custom notifications.  
 📲 **Download on Play Store:** [PomodoroStreak](https://play.google.com/store/apps/details?id=com.skyverse.pomodoro_streak)  
 🔗 **GitHub Repo:** [PomodoroStreak](https://github.com/surajpatil05/pomodoro-streak)  
 
