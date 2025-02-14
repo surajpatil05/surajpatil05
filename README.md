@@ -2,18 +2,18 @@
 
 ## Flutter Developer | Crafting Engaging Mobile Experiences
 Welcome to my GitHub! I'm a Flutter Developer passionate about building visually stunning, intuitive, and efficient mobile applications. With a strong foundation in Object-Oriented Programming (OOP) and a problem-solving mindset, I specialize in creating scalable, robust solutions that elevate user experiences. my focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
-___
+
 ## 🔧 Tech Stack & Skills
 
 ### 🚀 Programming Languages:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
+___
 ### 📱 Frameworks:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
+___
 ### 🛠️ State Management:
 ![BLoC](https://img.shields.io/badge/BLoC-3986F7?style=for-the-badge&logo=bloc&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-DC382D?style=for-the-badge&logo=getx&logoColor=white)
@@ -33,7 +33,6 @@ ___
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ___
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajpatil05&show_icons=true&theme=radical)
