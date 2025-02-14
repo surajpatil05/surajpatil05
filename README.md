@@ -18,7 +18,6 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="30px"/>
   Flutter Developer | Crafting Engaging Mobile Experiences
 </h3>
 
