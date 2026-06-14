@@ -22,13 +22,14 @@
 </h1>
 
 <h4 align="center">
-  Flutter Developer | Crafting Engaging Mobile Experiences
+ Mobile Application Developer | Flutter Developer
 </h4>
 
 <p align="center">
-  Welcome to my GitHub! I'm a Flutter Developer passionate about building visually stunning, intuitive, and efficient mobile applications. 
-  With a strong foundation in Object-Oriented Programming (OOP) and a problem-solving mindset, I specialize in creating scalable, robust solutions that elevate user experiences. 
-  My focus is on efficiency, clean architecture, and seamless design, ensuring every app I build is both functional and engaging. 🚀
+  Flutter Developer with 2+ years of experience building responsive mobile and web apps — passionate about crafting visually stunning, intuitive, and efficient applications.
+  With a strong foundation in OOP and a problem-solving mindset, I specialize in scalable, clean architecture solutions using Flutter, Firebase, Riverpod, RESTful APIs, and <code>flutter_test</code>.
+  My focus is on UI/UX, state management, and cross-platform optimization, ensuring every app is both functional and engaging. 🚀
+  Currently exploring Native Android & iOS for deeper platform integration.
 </p>
 
 <div align="center">
