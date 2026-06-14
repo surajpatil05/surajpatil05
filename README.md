@@ -87,20 +87,78 @@
 <img src="https://img.shields.io/badge/Accessibility-WCAG-7E57C2?style=for-the-badge&logo=accessibility&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-## 🚀 Projects That Speak for Themselves  
+## 🚀 Projects That Speak for Themselves
 
-### 📱 **Login Screen UI** (Flutter Web App)  
-> A beautifully designed **Flutter login UI**, deployed on **Vercel**, featuring responsive design, authentication flow, and state management.  
-🔗 **Live Demo:** [Login Screen UI](https://login-screen-ui.vercel.app/)  
-🔗 **GitHub Repo:** [Login Screen UI](https://github.com/surajpatil05/login-screen-ui)  
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>📱 Login Screen UI</h3>
+      <em>Flutter Web App</em>
+      <br/><br/>
+      Flutter login UI deployed on Vercel — responsive design, auth flow & state management
+      <br/><br/>
+      🔗 <a href="https://login-screen-ui.vercel.app/">Live Demo</a><br/>
+      🔗 <a href="https://github.com/surajpatil05/login-screen-ui">GitHub Repo</a>
+      <br/><br/>
+      <code>Flutter</code> <code>Web</code> <code>Vercel</code>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🕒 PomodoroStreak</h3>
+      <em>Productivity App</em>
+      <br/><br/>
+      Focus-boosting Pomodoro timer with streak tracking and custom notifications
+      <br/><br/>
+      📲 <a href="https://play.google.com/store/apps/details?id=com.skyverse.pomodoro_streak">Play Store</a><br/>
+      🍎 <em>App Store — Coming Soon</em><br/>
+      🔗 <a href="https://github.com/surajpatil05/pomodoro-streak">GitHub Repo</a>
+      <br/><br/>
+      <code>Flutter</code> <code>Android</code> <code>iOS</code>
+    </td>
+    <td valign="top" width="33%">
+      <h3>💪 LIFTRAQ</h3>
+      <em>Gym Workout Tracker</em>
+      <br/><br/>
+      Log sets, reps & weights, visualize strength progress with charts and smart reminders
+      <br/><br/>
+      📲 <a href="https://play.google.com/store/apps/details?id=com.skyverse.liftraq_app&hl=en_IN">Play Store</a><br/>
+      🍎 <em>App Store — Coming Soon</em><br/>
+      🔗 <a href="https://github.com/surajpatil05/liftraq-app">GitHub Repo</a>
+      <br/><br/>
+      <code>Flutter</code> <code>Android</code> <code>iOS</code>
+    </td>
+  </tr>
+</table>
 
-### 🕒 **PomodoroStreak** (Productivity App)  
-> A **focus-boosting Pomodoro timer** that helps users manage work sessions effectively with streak tracking and custom notifications.  
-📲 **Download on Play Store:** [PomodoroStreak](https://play.google.com/store/apps/details?id=com.skyverse.pomodoro_streak)  
-🔗 **GitHub Repo:** [PomodoroStreak](https://github.com/surajpatil05/pomodoro-streak)  
+---
 
-💡 **Mini Projects:**  
-✔️ **Weather App** 🌤️ | ✔️ **Todo App** 📋 | ✔️ **Dark Mode Switch** 🌙☀️ 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🌤️ Weather App</h3>
+      <em>Mini Project</em>
+      <br/><br/>
+      Real-time weather lookup with location support and clean UI
+      <br/><br/>
+      <code>Flutter</code> <code>API</code>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📋 Todo App</h3>
+      <em>Mini Project</em>
+      <br/><br/>
+      Task manager with local persistence and intuitive UX
+      <br/><br/>
+      <code>Flutter</code> <code>Hive</code>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🌙 Dark Mode Switch</h3>
+      <em>Mini Project</em>
+      <br/><br/>
+      Smooth theme toggle with persistent user preference
+      <br/><br/>
+      <code>Flutter</code> <code>Provider</code>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
