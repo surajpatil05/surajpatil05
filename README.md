@@ -6,6 +6,14 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=surajpatil05&style=flat-square&color=blue" alt="Profile Views"/>
+  <br><br>
+  <a href="https://play.google.com/store/apps/details?id=com.skyverse.pomodoro_streak">
+    <img src="https://img.shields.io/badge/Pomodoro_Streak-Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Pomodoro Streak on Play Store"/>
+  </a>&nbsp;&nbsp;
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.skyverse.liftraq_app&hl=en_IN">
+    <img src="https://img.shields.io/badge/Liftraq%3A_Gym_Workout_Tracker-Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Liftraq: Gym Workout Tracker on Play Store"/>
+  </a>
 </div>
 
 <h1 align="center">
@@ -242,6 +250,8 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=surajpatil05&show_icons=true&theme=radical"/>
+</br><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajpatil05&theme=radical" alt="GitHub Streak"/>
 
 <div align="center">
 
@@ -249,7 +259,6 @@
 
 ## 🤝 Let's Connect
   <a href="https://www.linkedin.com/in/surajpatil05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/suraajpatil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="https://medium.com/@surajpatil05"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;&nbsp;
   <a href="https://linktr.ee/surajpatil05"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>&nbsp;&nbsp;
   <a href="https://www.surajpatil.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
