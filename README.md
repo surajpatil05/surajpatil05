@@ -191,4 +191,19 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=surajpatil05&show_icons=true&theme=radical"/>
+
+<div align="center">
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+  <a href="https://www.linkedin.com/in/surajpatil05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/suraajpatil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@surajpatil05"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/surajpatil05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://www.surajpatil.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="mailto:surajpatil05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
+
 </div>
