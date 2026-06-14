@@ -25,61 +25,112 @@
 
 <div align="center">
 
-## 🔧 Tech Stack & Skills
+## 🛠️ My Favorite Tools & Technologies
 
-### 🚀 Programming Languages:
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-### 📱 Frameworks:
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-
-### 🛠️ State Management:
-<img src="https://img.shields.io/badge/BLoC-3986F7?style=for-the-badge&logo=bloc&logoColor=white"/>
-<img src="https://img.shields.io/badge/GetX-DC382D?style=for-the-badge&logo=getx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Provider-0288D1?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Riverpod-5B5FC7?style=for-the-badge&logo=riverpod&logoColor=white"/>
-
-### 🗄️ Databases & Cloud Services:
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge&logo=hive&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shared%20Preferences-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-### 🔁 Version Control & CI/CD:
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-### 🛠 Dev Tools:
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-
-### 📋 Project Management Tools:
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-
-### 🧪 Testing:
-<img src="https://img.shields.io/badge/flutter_test-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/integration_test-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-2A2A2A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml;base64&logoColor=white" alt="Mockito"/>
-
-### 🎨 UI/UX Design:
-<img src="https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireframe%20to%20UI-5C6BC0?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Accessibility-WCAG-7E57C2?style=for-the-badge&logo=accessibility&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="38" height="38" alt="Dart"/>
+      <br/><sub>Dart</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter"/>
+      <br/><sub>Flutter</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
+      <br/><sub>Java</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
+      <br/><sub>Node.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" height="38" alt="Express.js"/>
+      <br/><sub>Express.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/>
+      <br/><sub>Spring Boot</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="38" height="38" alt="Android"/>
+      <br/><sub>Android</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="38" height="38" alt="Xcode"/>
+      <br/><sub>Xcode</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="38" height="38" alt="Jetpack Compose"/>
+      <br/><sub>Jetpack Compose</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38" height="38" alt="Firebase"/>
+      <br/><sub>Firebase</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
+      <br/><sub>MySQL</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQFlite"/>
+      <br/><sub>SQFlite</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
+      <br/><sub>MongoDB</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase"/>
+      <br/><sub>Supabase</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
+      <br/><sub>Git</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="38" height="38" alt="GitHub"/>
+      <br/><sub>GitHub</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code"/>
+      <br/><sub>VS Code</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="38" height="38" alt="Android Studio"/>
+      <br/><sub>Android Studio</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" alt="Postman"/>
+      <br/><sub>Postman</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="38" height="38" alt="SonarQube"/>
+      <br/><sub>SonarQube</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" height="38" alt="Jira"/>
+      <br/><sub>Jira</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="38" height="38" alt="Confluence"/>
+      <br/><sub>Confluence</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="38" height="38" alt="Trello"/>
+      <br/><sub>Trello</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" alt="Figma"/>
+      <br/><sub>Figma</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projects That Speak for Themselves
 
