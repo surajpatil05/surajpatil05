@@ -34,112 +34,169 @@
 
 <div align="center">
 
+
 ## 🛠️ My Favorite Tools & Technologies
 
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="38" height="38" alt="Dart"/>
-      <br/><sub>Dart</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38"/><br/><sub>HTML5</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter"/>
-      <br/><sub>Flutter</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38"/><br/><sub>CSS3</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
-      <br/><sub>Java</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38"/><br/><sub>JavaScript</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
-      <br/><sub>Node.js</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38"/><br/><sub>React</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" height="38" alt="Express.js"/>
-      <br/><sub>Express.js</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="38" height="38"/><br/><sub>Dart</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/>
-      <br/><sub>Spring Boot</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38"/><br/><sub>Java</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="38" height="38" alt="Android"/>
-      <br/><sub>Android</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38" height="38"/><br/><sub>Kotlin</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="38" height="38" alt="Xcode"/>
-      <br/><sub>Xcode</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="38" height="38"/><br/><sub>Swift</sub>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="38" height="38" alt="Jetpack Compose"/>
-      <br/><sub>Jetpack Compose</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38"/><br/><sub>Flutter</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38" height="38" alt="Firebase"/>
-      <br/><sub>Firebase</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="38" height="38"/><br/><sub>Jetpack Compose</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
-      <br/><sub>MySQL</sub>
+      <img src="https://cdn.simpleicons.org/swift" width="38" height="38"/><br/><sub>SwiftUI</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQFlite"/>
-      <br/><sub>SQFlite</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="38" height="38"/><br/><sub>Android</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
-      <br/><sub>MongoDB</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="38" height="38"/><br/><sub>Xcode</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase"/>
-      <br/><sub>Supabase</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38" height="38"/><br/><sub>Firebase</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
-      <br/><sub>Git</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38"/><br/><sub>Node.js</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="38" height="38" alt="GitHub"/>
-      <br/><sub>GitHub</sub>
+      <img src="https://cdn.simpleicons.org/express/white" width="38" height="38"/><br/><sub>Express.js</sub>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code"/>
-      <br/><sub>VS Code</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38"/><br/><sub>Spring Boot</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="38" height="38" alt="Android Studio"/>
-      <br/><sub>Android Studio</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38"/><br/><sub>MySQL</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" alt="Postman"/>
-      <br/><sub>Postman</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" height="38"/><br/><sub>SQLite</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="38" height="38" alt="SonarQube"/>
-      <br/><sub>SonarQube</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38"/><br/><sub>MongoDB</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" height="38" alt="Jira"/>
-      <br/><sub>Jira</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" height="38"/><br/><sub>Supabase</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="38" height="38" alt="Confluence"/>
-      <br/><sub>Confluence</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38"/><br/><sub>Git</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="38" height="38" alt="Trello"/>
-      <br/><sub>Trello</sub>
+      <img src="https://cdn.simpleicons.org/github/white" width="38" height="38"/><br/><sub>GitHub</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" alt="Figma"/>
-      <br/><sub>Figma</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38"/><br/><sub>VS Code</sub>
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="38" height="38"/><br/><sub>Android Studio</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/androidstudio" width="38" height="38"/><br/><sub>Emulator</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38"/><br/><sub>Postman</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="38" height="38"/><br/><sub>SonarQube</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" height="38"/><br/><sub>Jira</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="38" height="38"/><br/><sub>Confluence</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="38" height="38"/><br/><sub>Trello</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/notion" width="38" height="38"/><br/><sub>Notion</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38"/><br/><sub>Figma</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/canva" width="38" height="38"/><br/><sub>Canva</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/gimp" width="38" height="38"/><br/><sub>GIMP</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/openai" width="38" height="38"/><br/><sub>ChatGPT</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/googlegemini/white" width="38" height="38"/><br/><sub>Gemini</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/anthropic/white" width="38" height="38"/><br/><sub>Claude Code</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/deepseek/white" width="38" height="38"/><br/><sub>DeepSeek</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/huggingface/white" width="38" height="38"/><br/><sub>Hugging Face</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/ollama/white" width="38" height="38"/><br/><sub>Ollama</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/lmstudio/white" width="38" height="38"/><br/><sub>LM Studio</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/notebooklm/white" width="38" height="38"/><br/><sub>NotebookLM</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/napkin/white" width="38" height="38"/><br/><sub>Napkin AI</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Kimi-000000?style=flat&logoColor=white" height="28"/><br/><sub>Kimi</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Higgsfield-6C3EFF?style=flat&logoColor=white" height="28"/><br/><sub>Higgsfield</sub>
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 ## 🚀 Projects That Speak for Themselves
 
