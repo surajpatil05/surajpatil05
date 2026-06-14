@@ -101,6 +101,7 @@
       🔗 <a href="https://github.com/surajpatil05/login-screen-ui">GitHub Repo</a>
       <br/><br/>
       <code>Flutter</code> <code>Web</code> <code>Vercel</code>
+      <br/><br/>
     </td>
     <td valign="top" width="33%">
       <h3>🕒 PomodoroStreak</h3>
@@ -113,6 +114,7 @@
       🔗 <a href="https://github.com/surajpatil05/pomodoro-streak">GitHub Repo</a>
       <br/><br/>
       <code>Flutter</code> <code>Android</code> <code>iOS</code>
+      <br/><br/>
     </td>
     <td valign="top" width="33%">
       <h3>💪 LIFTRAQ</h3>
@@ -125,11 +127,10 @@
       🔗 <a href="https://github.com/surajpatil05/liftraq-app">GitHub Repo</a>
       <br/><br/>
       <code>Flutter</code> <code>Android</code> <code>iOS</code>
+      <br/><br/>
     </td>
   </tr>
 </table>
-
----
 
 <table>
   <tr>
@@ -140,6 +141,7 @@
       Real-time weather lookup with location support and clean UI
       <br/><br/>
       <code>Flutter</code> <code>API</code>
+      <br/><br/>
     </td>
     <td valign="top" width="33%">
       <h3>📋 Todo App</h3>
@@ -148,6 +150,7 @@
       Task manager with local persistence and intuitive UX
       <br/><br/>
       <code>Flutter</code> <code>Hive</code>
+      <br/><br/>
     </td>
     <td valign="top" width="33%">
       <h3>🌙 Dark Mode Switch</h3>
@@ -156,7 +159,38 @@
       Smooth theme toggle with persistent user preference
       <br/><br/>
       <code>Flutter</code> <code>Provider</code>
+      <br/><br/>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🐾 GiveAPaw</h3>
+      <em>Mini Project</em>
+      <br/><br/>
+      Dog donation app — secure Razorpay payments with a clean, friendly UI for animal lovers
+      <br/><br/>
+      🔗 <a href="https://github.com/surajpatil05/razorpay-integration-app">GitHub Repo</a>
+      <br/><br/>
+      <code>Flutter</code> <code>Razorpay</code>
+      <br/><br/>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🎙️ Continuous Listening STT</h3>
+      <em>Mini Project</em>
+      <br/><br/>
+      Flutter demo for hands-free continuous speech-to-text on Android & iOS — fixes Android 15 beep and duplicate text bugs
+      <br/><br/>
+      🔗 <a href="https://github.com/surajpatil05/continuous-listening-stt-app">GitHub Repo</a>
+      <br/>
+      🔗 <a href="https://medium.com/@surajpatil05/a-complete-guide-to-hands-free-note-taking-on-android-ios-using-the-speech-to-text-package-with-4050b4a2e96e">Medium Article</a>
+      <br/><br/>
+      <code>Flutter</code> <code>speech_to_text</code> <code>Android</code> <code>iOS</code>
+      <br/><br/>
+    </td>
+    <td valign="top" width="33%"></td>
   </tr>
 </table>
 
