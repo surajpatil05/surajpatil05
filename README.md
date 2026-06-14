@@ -1,14 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/surajpatil05/surajpatil05/master/profile-avatar.svg" width="200"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://instagram.com/suraajpatil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://www.linkedin.com/in/surajpatil05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://medium.com/@surajpatil05">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</div>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=surajpatil05&style=flat-square&color=blue" alt="Profile Views"/>
