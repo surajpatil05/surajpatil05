@@ -22,14 +22,14 @@
 </h1>
 
 <h4 align="center">
- Mobile Application Developer | Flutter Developer
+ Mobile Application Developer | Android & Flutter Developer
 </h4>
 
 <p align="center">
-  Flutter Developer with 2+ years of experience building responsive mobile and web apps — passionate about crafting visually stunning, intuitive, and efficient applications.
-  With a strong foundation in OOP and a problem-solving mindset, I specialize in scalable, clean architecture solutions using Flutter, Firebase, Riverpod, RESTful APIs, and <code>flutter_test</code>.
-  My focus is on UI/UX, state management, and cross-platform optimization, ensuring every app is both functional and engaging. 🚀
-  Currently exploring Native Android & iOS for deeper platform integration.
+  Flutter & Android Developer with <strong>3+ years of hands-on experience</strong> in developing, debugging, publishing, and maintaining cross-platform mobile applications.
+  Skilled in <strong>Flutter, Dart, native Android, Kotlin/Java, Firebase, RESTful APIs, and state management</strong> using <strong>Riverpod, GetX, and BLoC</strong>,
+  with experience in <strong>automated CI/CD workflows using GitHub Actions, Fastlane, and Shorebird</strong> for application builds, testing, deployment, and over-the-air updates.
+  Currently exploring <strong>iOS</strong> for deeper platform integration.
 </p>
 
 <div align="center">
